@@ -161,7 +161,7 @@ h2{
     display: inline-block;
     width: 100%;
 }
-.center ul{
+.center{
     position: absolute;
     left: 64px;
     width: 210px;
