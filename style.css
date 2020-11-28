@@ -161,9 +161,10 @@ h2{
     display: inline-block;
     width: 100%;
 }
-.center{
+.center ul{
     position: absolute;
     left: 64px;
+    width: 210px;
 }
 .table{
     display: table;
