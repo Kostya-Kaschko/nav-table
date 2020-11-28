@@ -156,6 +156,11 @@ h2{
 .village-menu{
     margin-bottom: 40px;
 }
+.techniks-menu ul:nth-child(4){
+    position: absolute;
+    left: 60px;
+    width: 210px;
+}
 .food-menu:after{
     content: "";
     display: inline-block;
