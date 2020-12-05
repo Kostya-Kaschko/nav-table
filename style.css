@@ -210,7 +210,7 @@ a.home{
 .home:hover:before{
     background-position: -47px -18px;
 }
-.right{
+.right-sub-menu{
     right: 10px;
 }
 .social{
