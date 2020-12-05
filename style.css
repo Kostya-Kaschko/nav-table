@@ -210,6 +210,9 @@ a.home{
 .home:hover:before{
     background-position: -47px -18px;
 }
+.right{
+    right: 10px;
+}
 .social{
     float: right;
     padding: 15px 30px;
