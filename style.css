@@ -12,6 +12,9 @@ body{
     padding: 70px 0 100px;
     max-width: 960px;
 }
+img{
+    margin: 0;
+}
 .menu-bg{
     background-color: #2a3644;
 }
@@ -372,34 +375,4 @@ th{
 }
 .bg1>li{
     display: inline-block;
-}
-.mac{
-    width: 34px;
-    position: absolute;
-    right: 967px;
-    bottom: -414px;
-}
-.mac15{
-    width: 34px;
-    position: absolute;
-    right: 895px;
-    bottom: -467px
-}
-.sumsung{
-    width: 17px;
-    position: absolute;
-    right: 961px;
-    bottom: -525px;
-}
-.tv{
-    width: 38px;
-    position: absolute;
-    right: 961px;
-    bottom: -573px;
-}
-.watch{
-    width: 38px;
-    position: absolute;
-    right: 982px;
-    bottom: -628px;
 }
