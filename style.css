@@ -373,3 +373,21 @@ th{
 .bg1>li{
     display: inline-block;
 }
+.mac{
+    width: 34px;
+    position: absolute;
+    right: 967px;
+    bottom: -750px;
+}
+.mac15{
+    width: 34px;
+    position: absolute;
+    right: 898px;
+    bottom: -803px;
+}
+.sumsung{
+    width: 17px;
+    position: absolute;
+    right: 961px;
+    bottom: -857px;
+}
