@@ -377,17 +377,30 @@ th{
     width: 34px;
     position: absolute;
     right: 967px;
-    bottom: -750px;
+    bottom: -414px;
 }
 .mac15{
     width: 34px;
     position: absolute;
-    right: 898px;
-    bottom: -803px;
+    right: 895px;
+    bottom: -467px
 }
 .sumsung{
     width: 17px;
     position: absolute;
     right: 961px;
-    bottom: -857px;
+    bottom: -525px;
+}
+}
+.tv{
+    width: 38px;
+    position: absolute;
+    right: 961px;
+    bottom: -907px;
+}
+.watch{
+    width: 38px;
+    position: absolute;
+    right: 982px;
+    bottom: -961px;
 }
